@@ -1,0 +1,4 @@
+#ifndef SQLPARSERDEF_H
+#define SQLPARSERDEF_H
+
+#endif // SQLPARSERDEF_H

@@ -1,0 +1,3 @@
+﻿
+QComboBox{border:0px;}
+QPushButton{border:0px;}

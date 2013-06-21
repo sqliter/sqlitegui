@@ -1,0 +1,13 @@
+abort,add,after,all,alter,analyze,and,as,asc,attach,autoincrement,
+before,begin,between,by,case,cast,char,check,column,create,commit,
+conflict,copy,collate,constraint,cross,current_time,current_date,
+current_timestamp,database,datetime,default,deferred,delete,
+delimiters,desc,detach,distinct,drop,each,end,else,escape,except,
+exclusive,exists,explain,fail,for,from,full,glob,group,having,key,
+if,ignore,immediate,in,index,inner,instead,int,integer,
+intersect,into,insert,isnull,join,left,like,limit,
+natural,new,not,null,notnull,of,offset,old,on,or,order,
+outter,primary,regexp,reindex,rename,replace,right,rollback,
+row,select,set,statement,table,temp,temporary,then,to,
+transaction,trigger,union,unique,update,using,vacuum,values,
+view,where,when

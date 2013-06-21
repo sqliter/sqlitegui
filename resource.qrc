@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/ykey.png</file>
+        <file>images/uncheck.png</file>
+        <file>images/redo.png</file>
+        <file>images/undo.png</file>
+        <file>images/result.png</file>
+        <file>images/stop.png</file>
+        <file>images/newquery.png</file>
+        <file>images/run.png</file>
+        <file>images/find.png</file>
+        <file>images/insert.png</file>
+        <file>images/cancel.png</file>
+        <file>images/column.png</file>
+        <file>images/check.png</file>
+        <file>images/key.png</file>
+        <file>images/help.png</file>
+        <file>images/table.png</file>
+        <file>images/view.png</file>
+        <file>images/query.png</file>
+        <file>images/flag.png</file>
+        <file>images/node.png</file>
+        <file>images/refresh.png</file>
+        <file>images/app.png</file>
+        <file>images/back.png</file>
+        <file>images/forward.png</file>
+        <file>images/down.png</file>
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.png</file>
+        <file>images/save.png</file>
+        <file>images/close.png</file>
+        <file>images/closedb.png</file>
+        <file>images/db.png</file>
+        <file>images/remove.png</file>
+        <file>titlebar.qss</file>
+        <file>keyword.txt</file>
+        <file>images/star.png</file>
+        <file>images/yes.png</file>
+        <file>images/del.png</file>
+        <file>images/index.png</file>
+    </qresource>
+</RCC>

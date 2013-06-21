@@ -1,0 +1,1 @@
+CREATE TABLE offices (id int primary key,imagefile int,location varchar(20),country varchar(20),description varchar(100))
